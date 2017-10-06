@@ -20,3 +20,4 @@ shell-server@0.2.4            # Server-side component of the `meteor shell` comm
 reactive-dict@1.1.9
 accounts-ui@1.1.9
 accounts-password@1.4.0
+practicalmeteor:mocha
